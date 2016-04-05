@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+
+    <!--Sin @android: porque no pertenecen a la clase android-->
+    <item name="ic_menu_perfil" type="drawable">@drawable/ic_menu_perfil</item>
+    <item name="ic_menu_mapa" type="drawable">@drawable/ic_menu_mapa</item>
+    <item name="ic_menu_fotos" type="drawable">@drawable/ic_menu_fotos</item>
+    <item name="ic_menu_cerrar" type="drawable">@drawable/ic_menu_cerrar</item>
+</resources>
